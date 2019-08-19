@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Week5Day1-Test</string>
+    <string name="default_encode">Errors in strategy cannot be correct through tactical maneuvers</string>
+    <string name="enter_string">Enter String</string>
+    <string name="encode_string">Encode String</string>
+    <string name="default_frequency">Hello there! Apple!</string>
+    <string name="get_frequency">Get Frequency</string>
+</resources>
